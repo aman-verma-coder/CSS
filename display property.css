@@ -1,0 +1,14 @@
+h1{
+    display: inline;
+}
+span{
+    display: block;
+}
+div{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    border: solid black 2px;margin: 5px;
+    display: inline-block;
+
+}

@@ -1,0 +1,27 @@
+/* (qs1) h1{
+    color: pink;
+}
+#greet{
+    color: yellow;
+}
+.myclass{
+    color: brown;
+} */
+/* (qs2) div p{
+    background-color: black;
+}
+.para{
+    background-color: blue;
+}
+p{
+    background-color: green;
+} */
+/* (qs3) div.greetdiv .greet{
+    color: green;
+}
+.greetdiv p.greet{
+    color: blue;
+}
+.greetdiv .greet{
+    color: red;
+} */

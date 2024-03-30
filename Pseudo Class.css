@@ -1,0 +1,38 @@
+/* Hover(It will be applied when we move cursor over there) */
+h3:hover{
+    color: aqua;
+    background-color: crimson;
+}
+button:hover{
+    color: aliceblue;
+    background-color: aqua;
+}
+/* Active(It will be applied when we click over there) */
+h3:active{
+    color:pink;
+    background-color:chartreuse ;
+}
+button:active{
+    color: chocolate;
+    background-color: cornflowerblue;
+}
+/* Checked(It will be applied when we click on radio or checkbox buttons) */
+input[type="radio"]:checked+label{
+    color: green;
+    background-color: aquamarine;
+    font-weight: bold;
+}
+/* nth-of-type(It will be applied by any number or formulas of n) */
+div:nth-of-type(2n){
+    background-color:aquamarine;
+}
+/* Pseudo Element */
+h1::first-letter{
+    color:red;
+}
+p::first-line{
+    color: cornflowerblue;
+}
+p::selection{
+    background-color: yellowgreen;
+}

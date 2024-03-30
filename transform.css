@@ -1,0 +1,32 @@
+div {
+    height: 125px;
+    width: 200px;
+    margin: 15px;
+    background-color: aquamarine;
+}
+
+div:nth-last-of-type(2n) {
+    background-color: chartreuse;
+}
+/* Rotate */
+.divs:hover{
+    transform: rotate(45deg);
+}
+/* Scale */
+#second{
+    transform: scale(0.8);
+}
+#third{
+    transform: scale(0.5,2);
+}
+#fourth{
+    transform: scaleX(0.6);
+}
+/* Translate */
+#first{
+    transform: translate(100px,50px);
+}
+/* Skew */
+#fifth{
+    transform: skew(30deg);
+}

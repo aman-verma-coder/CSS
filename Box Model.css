@@ -1,0 +1,51 @@
+/* Height */
+div{
+    height: 200px;
+    width: 500px;
+    background-color:aquamarine;
+}
+/* Border */
+h1{
+    border-width: 2px;
+    border-style: dotted;
+    border-color: chartreuse;
+}
+div{
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: crimson; */
+    border: 5px solid crimson;
+}
+/* Border Side */
+div{
+    border-top:4px cadetblue dashed;
+    border-left-color: blue€;
+}
+/* Border Radius */
+div{
+    border-radius: 15px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 40px;
+}
+h1{
+    border-radius: 15spx;
+}
+/* Padding Property */
+/* div{
+    padding: 50px;
+}
+button{
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: darkcyan;
+} */
+/* Margin Property */
+div{
+    margin: 50px;
+}
+h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}

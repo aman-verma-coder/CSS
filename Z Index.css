@@ -1,0 +1,25 @@
+.divs{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    position:relative;
+}
+#first{
+    background-color: aquamarine;
+    z-index: 2;
+}
+#second{
+    background-color:cornflowerblue;
+    bottom: 75px;
+    z-index: 1;
+}
+#third{
+    background-color: darkgreen;
+    bottom: 150px;
+    z-index: 0;
+}
+#fourth{
+    background-color: yellowgreen;
+    bottom: 225px;
+    z-index: -1;
+}

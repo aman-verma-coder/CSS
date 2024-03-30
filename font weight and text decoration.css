@@ -1,0 +1,20 @@
+h1{
+    text-decoration: wavy blue underline;
+    text-align: center;
+}
+h2{
+    font-weight: 400;
+    text-decoration: double green overline;
+}
+h3{
+    font-weight: lighter;
+    text-decoration: line-through;
+}
+a{
+    text-decoration: none;
+    font-weight: 900;
+    font-size: larger;
+}
+p{
+    text-decoration:dotted underline;
+}

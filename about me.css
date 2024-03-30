@@ -1,0 +1,27 @@
+header{
+    background-color: aquamarine;
+    text-align: center;
+}
+main{
+    background-color: darkgoldenrod;
+    text-align: start;
+    color:darkslategrey;
+}
+footer{
+    background-color:darkslategrey;
+    text-align: center;
+    font-size:xx-large;
+    color: aliceblue;
+}
+p{
+    font-size:medium;
+}
+h3{
+    font-size:x-large;
+    font-weight: 500;
+    
+}
+a{
+    text-decoration: none;
+    color: azure;
+}

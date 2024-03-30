@@ -1,0 +1,36 @@
+h1 {
+    color: aliceblue;
+    background-color: blue;
+}
+
+@media (width: 400px) {
+    h1{
+        background-color: red;
+        color:aquamarine;
+    }
+}
+@media (min-width: 401px) {
+    h1{
+        background-color:darkcyan;
+        color: black;
+    }
+}
+@media (max-width: 399px) {
+    h1{
+        background-color:cadetblue;
+        color: brown;
+    }
+}
+@media(min-width: 600px) and (max-width: 800px) {
+    h1{
+        background-color: darkblue;
+        color: aquamarine;
+    }
+}
+/* Media Orientation */
+@media(orientation: landscape) {
+    h1{
+        background-color: darkgray;
+        color: greenyellow;
+    }
+}

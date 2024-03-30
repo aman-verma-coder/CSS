@@ -1,0 +1,12 @@
+div{
+    height: 200px;
+    width: 200px;
+    /* background-color: rgba(150, 100, 125, 0.7); */
+    background-color: #a1b2c3bb;
+}
+#abc{
+    height: 500px;
+    width: 500px;
+    background-color: blue;
+    opacity: 0.6;
+}

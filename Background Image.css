@@ -1,0 +1,11 @@
+div {
+    font-size: 25px;
+    text-align: center;
+    color: darkblue;
+    height: 600px;
+    width: 600px;
+    background-color: aquamarine;
+    margin: auto;
+    background-image: url("4K-Desktop-Backgrounds-Free-download-1-768x512.jpg");
+    background-size: cover;
+}
